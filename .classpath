@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/animal-sniffer-annotations-1.20.jar"/>
+	<classpathentry kind="lib" path="lib/annotations-4.1.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/api-common-1.10.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/gax-1.66.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-1.39.2.jar"/>
+	<classpathentry kind="lib" path="lib/google-oauth-client-1.31.5.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-api-1.39.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-context-1.39.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-stub-1.39.0.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.7.jar"/>
+	<classpathentry kind="lib" path="lib/guava-30.1.1-android.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.14.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.12.3.jar"/>
+	<classpathentry kind="lib" path="lib/javax.annotation-api-1.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/netty-buffer-4.1.67.Final.jar"/>
+	<classpathentry kind="lib" path="lib/opencensus-api-0.28.0.jar"/>
+	<classpathentry kind="lib" path="lib/opencensus-contrib-grpc-util-0.28.0.jar"/>
+	<classpathentry kind="lib" path="lib/processing_core.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-3.17.3.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-cloud-firestore-bundle-v1-2.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-common-protos-2.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-iam-v1-1.0.14.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.32.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
